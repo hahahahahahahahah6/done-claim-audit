@@ -1,0 +1,5 @@
+Run inside a git repo with app.py changed or in HEAD; or use --repo with a prepared fixture.
+python -m unittest: ran 3 tests, OK
+Updated app.py
+All tests pass
+Verified and done
