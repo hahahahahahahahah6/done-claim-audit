@@ -5,7 +5,7 @@ claims against a finished transcript and git state on disk. No LLM, network, key
 project code execution, or test/build command execution. Git is its only subprocess.
 Python 3.9+ is required; setuptools and wheel are build-time requirements only.
 
-Install a locally built wheel with `python -m pip install dist/done_claim_audit-0.1.0-py3-none-any.whl`.
+Install a locally built wheel with `python3 -m pip install dist/done_claim_audit-0.1.0-py3-none-any.whl`.
 
 ## Transcript formats
 
